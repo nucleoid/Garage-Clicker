@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Garage Clicker</string>
+    <string name="menu_url">Change Garage Clicker Url</string>
+    <string name="menu_credentials">Change Credentials</string>
+    <string name="menu_quit">Quit</string>
+    <string name="ok_button">Ok</string>
+</resources>
